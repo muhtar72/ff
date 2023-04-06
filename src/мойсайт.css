@@ -1,0 +1,171 @@
+header{
+    width: 100%;
+}
+.logo{
+    width: 100%;
+    border-bottom: 3px solid rgb(0, 0, 0);
+}
+.image{
+    margin: 0 auto;
+    width: 332px;
+    height: 332px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+}
+.menu{
+    padding: 10px 0 0 0;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+li{
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+a:hover{
+    color: rgb(73, 78, 148);
+}
+.off{
+    width: 100%;
+    display: flex;
+    height: 368px;
+}
+.im-le{
+    width: 33%;
+    background-image: url('изо.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.im-le2{
+    width: 33%;
+    background-image: url('изо.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.im-ri{
+    width: 33%;
+    background-image: url('изо.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.inf1{
+    position: relative;
+    top:230px;
+    right: 550px;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    width: 600px;
+}
+.pros{
+    width: 100%;
+    height: 30px;
+}
+.off2{
+    width: 100%;
+    height: 408px;
+}
+.im{
+    background-image: url(изо.jpg);
+    background-size: cover;
+    height: 408px;
+}
+.inf2{
+    position: relative;
+    color: white;
+    bottom: 100px;
+    width: 100%;
+    text-align: center;
+    padding: 0 200px ;
+    box-sizing: border-box;
+}
+.pros2{
+    height: 30px;
+}
+.sob{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.text1{
+    text-align: center;
+}
+.text2{
+    text-align: center;
+}
+.text3{
+    text-align: center;
+}
+.box1{
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 20px;
+}
+.box2{
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 20px;
+}
+.box3{
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 20px;
+}
+.pros3{
+    height: 30px;
+}
+form{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.st1{
+    width: 150px;
+}
+.st2{
+}
+.st3{
+}
+footer{
+    background-color: rgb(22, 22, 22);
+    height: 300px;
+    margin-top: 100px;
+}
+.imag{
+    padding: 20px 0 0 0px;
+    width: 332px;
+    height: 332px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+}
+.menu1{
+    padding: 10px 0 0 0;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 200px;
+}
+li{
+
+}
+b{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+a:hover{
+    color: rgb(73, 78, 148);
+}
+
+
