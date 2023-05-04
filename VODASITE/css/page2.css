@@ -1,0 +1,94 @@
+.logo{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+header{
+  background-color: #1a54b5;
+  width: 100%;
+  display: flex;
+}
+.doc{
+display: flex;
+}
+.navbar{
+overflow: hidden;
+background-color: #164595;
+}
+.navbar a{
+float: left;
+display: block;
+color: aliceblue;
+text-align: center;
+padding: 14px 20px;
+text-decoration: none;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navbar a:hover{
+background-color: #1a54b5;
+}
+.img{
+display: flex;
+width: 100%;
+padding: 20px;
+}
+.izo{
+height: 450px;
+}
+.voda{
+height: 650px;
+}
+.screen{
+height: 820px;
+}
+.form{
+background-color: #00b6f5;
+padding: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+border: 5px solid #164595;
+height: 1500px;
+}
+.form2{
+flex: 70%;
+background-color: #e7f2fe;
+padding: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+border: 5px solid #164595;
+
+}
+.f{
+color: red;
+font-size: 50px;
+text-align: center;
+}
+* {
+box-sizing: border-box;
+}
+footer{
+padding: 20px;
+text-align: center;
+background: #1a54b5;
+display: flex;
+justify-content: center;
+}
+.foot{
+color: rgb(203, 197, 197);
+text-align: center;
+justify-content: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 13px;
+}
+
+.tec{
+  display: flex;
+  justify-content: center;
+  height: 200px;
+}
+.tex{
+    display: flex;
+    justify-content: center;
+}
+.pros{
+    background-color: rgb(255, 255, 255);
+    height: 200px;
+}
